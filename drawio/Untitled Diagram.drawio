@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T06:32:12.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5NKgUJacix5_1pcf5n1q" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T21:50:14.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="iA-juaPo8erjGSFhTEyC" version="15.3.8" type="github">
   <diagram id="NkUVB_MuAY6k-S3Yqs2I" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
             <mxPoint x="1081" y="353.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TmIskUd6S_NqrXWgK_SJ-8" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Klasicismus&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="884" y="313" width="174" height="20" as="geometry" />
+        <mxCell id="TmIskUd6S_NqrXWgK_SJ-8" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Surrealismus&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="220" width="174" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TmIskUd6S_NqrXWgK_SJ-9" value="18. st." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="822" y="322" width="62" height="20" as="geometry" />
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TmIskUd6S_NqrXWgK_SJ-52" value="&lt;div class=&quot;ii04i59q jq4qci2q g9io39s2 oo9gr5id&quot; dir=&quot;auto&quot; style=&quot;font-family: inherit ; font-size: 20px ; line-height: 20px&quot;&gt;České národní obrození&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="794" width="435" height="35" as="geometry" />
+          <mxGeometry x="285" y="785" width="435" height="21" as="geometry" />
         </mxCell>
         <mxCell id="TmIskUd6S_NqrXWgK_SJ-53" value="19. st." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="773" width="62" height="20" as="geometry" />
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="TmIskUd6S_NqrXWgK_SJ-59" value="mylně zařazen i Erich Maria Remarque, který ale vyjadřuje jiné postoje k válce - nemá skeptické pocity po návratu z války" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="628" y="1200" width="654" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="TmIskUd6S_NqrXWgK_SJ-60" value="proces formování moderního českého národa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373" y="806" width="252" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
